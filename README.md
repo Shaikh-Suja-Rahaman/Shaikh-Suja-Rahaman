@@ -37,4 +37,6 @@ Hey, I’m Suja, a 2nd year at Scaler School of Technology, turning coffee into 
 <br/>
 
 ---
-
+<p align="center">
+  <img src="90ab707154abcad6503a57b445bb62ba.gif" alt="gif" />
+</p>
