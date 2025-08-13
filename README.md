@@ -1,10 +1,11 @@
 
 
+
 # 🏂 Suja Rahaman
 
 **`🚀 Aspiring Software Engineer | 🎥 Tech & Education Creator | 🎮 Community Builder`**
 
-Hey, I’m Suja, a 2nd year at Scaler School of Technology, turning coffee into code and ideas into reality. I love building projects, and creating videos that make tech fun and easy to understand on my YouTube Channel "[suja_rahaman][youtube]". Always curious, always learning, and always up for a good challenge.
+Hey, I’m Suja, a 2nd year student at Scaler School of Technology, turning coffee into code and ideas into reality. I love building projects, and creating videos that make tech fun and easy to understand on my YouTube Channel: [@suja_rahaman](https://www.youtube.com/@suja_rahaman) . Always curious, always learning, and always up for a good challenge.
 
 <p align="left">
    <a href="https://www.youtube.com/@suja_rahaman?sub_confirmation=1">
@@ -32,7 +33,7 @@ Hey, I’m Suja, a 2nd year at Scaler School of Technology, turning coffee into 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="github-logo.svg" />
 <br />
 <br/>
 
