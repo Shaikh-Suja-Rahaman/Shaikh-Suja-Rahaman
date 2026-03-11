@@ -5,7 +5,10 @@
 
 **`🚀 Aspiring Software Engineer | 🎥 Tech & Education Creator | 🎮 Community Builder`**
 
-Hey, I’m Suja, a 2nd year student at Scaler School of Technology, turning coffee into code and ideas into reality. I love building projects, and creating videos that make tech fun and easy to understand on my YouTube Channel: [@suja_rahaman](https://www.youtube.com/@suja_rahaman) . Always curious, always learning, and always up for a good challenge.
+Hey, I’m a 2nd year student at Scaler School of Technology. I love building projects and making videos that make tech fun and easy to understand on my YouTube channel:  
+[@suja_rahaman](https://www.youtube.com/@suja_rahaman)
+
+I also document my journey as I figure things out along the way :)
 
 <p align="left">
    <a href="https://www.youtube.com/@suja_rahaman?sub_confirmation=1">
