@@ -10,11 +10,11 @@ Hey, I’m Suja, a 2nd year student at Scaler School of Technology, turning coff
 <p align="left">
    <a href="https://www.youtube.com/@suja_rahaman?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel"
-         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrV66yugf5XbjEce68Hoemg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrV66yugf5XbjEce68Hoemg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
 <a href="https://www.youtube.com/@suja_rahaman">
       <img alt="youtube views" title="YouTube views"
-         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrV66yugf5XbjEce68Hoemg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1155ba"/></a> 
-   
+         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrV66yugf5XbjEce68Hoemg?color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1155ba"/></a>
+
 </p>
 
 
@@ -41,5 +41,5 @@ Hey, I’m Suja, a 2nd year student at Scaler School of Technology, turning coff
 
 ---
 <p align="center">
-  <img src="90ab707154abcad6503a57b445bb62ba.gif" alt="gif" />
+  <img src="tumblr_f2a397dcf80893fcb760b6bafe7e897f_708fe9b6_500 (1).webp" alt="gif" />
 </p>
