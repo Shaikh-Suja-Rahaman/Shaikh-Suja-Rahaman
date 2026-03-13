@@ -41,5 +41,5 @@ Hey, I’m Suja, a 2nd year student at Scaler School of Technology, turning coff
 
 ---
 <p align="center">
-  <img src="tumblr_f2a397dcf80893fcb760b6bafe7e897f_708fe9b6_500 (1).webp" alt="gif" />
+  <img src="./assets/aesthetic.gif" alt="gif" />
 </p>
