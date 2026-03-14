@@ -5,7 +5,7 @@
 
 **`🚀 Aspiring Software Engineer | 🎥 Tech & Education Creator | 🎮 Community Builder`**
 
-Hey, I’m a 2nd year student at Scaler School of Technology. I love building projects and making videos that make tech fun and easy to understand on my YouTube channel:  
+Hey, I’m a 2nd year student at Scaler School of Technology. I love building projects and making videos that make tech fun and easy to understand on my YouTube channel:
 [@suja_rahaman](https://www.youtube.com/@suja_rahaman)
 
 I also document my journey as I figure things out along the way :)
@@ -44,5 +44,5 @@ I also document my journey as I figure things out along the way :)
 
 ---
 <p align="center">
-  <img src="./assets/aesthetic.gif" alt="gif" />
+  <img src="./assets/aesthetic2.gif" alt="gif" />
 </p>
